@@ -18,7 +18,7 @@ Skilled in data cleaning, analysis, and creating insightful dashboards and Visua
 
 <img align="Center" width="350" height="300" src="https://i.gifer.com/75ez.gif">  
 
-- 🌱 I’m currently Working In Media Analyst.
+- 🌱 I’m currently Working as Media Analyst.
 - 🌱 I’m currently learning advanced Excel,My Sql,Power BI and Python.
 - 🤔 I’m looking for help with deep learning frameworks for learning Above Skills.
 - 💬 Ask me about Media Analytics.
